@@ -26,23 +26,3 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-body {
-  background-image: url("{{ '/assets/img/NasaJupiter.jpg' | relative_url }}");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh;
-  margin: 0;
-}
-
-html, body {
-  height: 100%;
-}
-
-@media (max-width: 768px) {
-  body {
-    background-image: url("{{ '/assets/img/NasaJupiter.jpg' | relative_url }}"); /* same image for mobile, or swap if needed */
-    background-size: cover;
-    background-position: center;
-  }
-}

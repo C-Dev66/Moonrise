@@ -1,11 +1,11 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Carlos | CDev66
+bio: "Welcome to my website! Feel free to take a lookg around.😊"
+description: "Professional test engineer and lifelong learner with a passion for growth and innovation"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
+logo: "assets/img/Helmet_200x200_1.png"
+background: "assets/img/NasaJupiter.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://TolgaTatli.github.io/Moonrise

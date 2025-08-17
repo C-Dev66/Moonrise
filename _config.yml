@@ -8,7 +8,7 @@ logo: "assets/img/Helmet_200x200_1.png"
 background: "assets/img/NasaJupiter.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://CDev66.com
 
 # Jekyll
 permalink: /:title/

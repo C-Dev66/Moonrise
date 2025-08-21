@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
-comments: false
+date: 2025-06-26
+comments: true
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## <center>Hello, I'm Carlos | CDev66 👋</center>
 
-## Features
+---
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+I’m a test engineer and lifelong learner with a passion for technology, rocketry, and hands-on projects. By day, I work in the automotive electrical powertrain field, and by night, I enjoy exploring personal projects that push my curiosity further.
+
+Currently, I’m diving into the world of rocketry, working toward my Level 1 Tripoli certification and learning how sustainable energy and propulsion systems can shape the future. I enjoy blending my background in engineering with my love for building, tinkering, and discovering new ways to solve complex problems.
+
+This site is my place to share notes, projects, and ideas as I continue my journey in engineering and beyond.
+
+---
+
 
 ## Preview
 

@@ -10,16 +10,41 @@ comments: true
 
 ---
 
-I’m a test engineer and lifelong learner with a passion for technology, rocketry, and hands-on projects. By day, I work in the automotive electrical powertrain field, and by night, I enjoy exploring personal projects that push my curiosity further.
+I’m a test engineer and lifelong learner with a passion for automotive racing, rocketry, and hands-on projects. By day, I work in the electrical powertrain field, and by night, I enjoy exploring personal projects that push my curiosity further.
 
-Currently, I’m diving into the world of rocketry, working toward my Level 1 Tripoli certification and learning how sustainable energy and propulsion systems can shape the future. I enjoy blending my background in engineering with my love for building, tinkering, and discovering new ways to solve complex problems.
+Currently, I’m diving into the world of rocketry, working toward my High Power Rocketry(HPR) Level 1 Tripoli certification and learning how sustainable energy and propulsion systems can shape the future. I enjoy blending my background in engineering with my love for building, tinkering, and discovering new ways to solve complex problems.
 
 This site is my place to share notes, projects, and ideas as I continue my journey in engineering and beyond.
 
 ---
 
 
-## Preview
+## Site Map
+
+{% highlight plaintext%}
+CDev66.com
+│
+├── Home (/)
+│     ├── Learn More
+│     ├── Email / LinkedIn / Instagram / Github
+│     └── About / Posts / Projects / Notes
+│
+├── About (/about)
+│     ├── Bio
+│     └── Site Map
+│
+├── Posts (/posts)
+│     ├── All Posts
+│     └── All Tags
+│
+├── Projects (/projects)
+│     └── All Projects
+│
+└── Notes (/Full-Stack-Full-Circuit)
+      ├── Index
+      └── Explorer
+{% endhighlight %}
+
 
 {% capture images %}
 https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png

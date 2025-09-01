@@ -39,11 +39,11 @@ sass:
 email: test@test.com
 #twitter: username
 #facebook: username
-github-url: username
+github-url: C-Dev66
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+linkedin: carlos-j-2504a5119
 #xing: username
-instagram: username
+instagram: C_Dev66
 #lastfm: username
 #tumblr: username
 #medium: '@username'
@@ -90,3 +90,9 @@ exclude:
     LICENSE,
     Rakefile,
   ]
+
+
+collections:
+  projects:
+    output: true        # makes project pages get built into /_site
+    permalink: /projects/:title/

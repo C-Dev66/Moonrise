@@ -1,46 +1,41 @@
 ---
 layout: project
-title: "1992 NA Mazda Miata"
+title: "1992 Mazda MX-5 Miata 1.6L"
 date: 2024-02-11
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
+tags: [Miata, Automotive, Autocross, Trackday, HPDE]
+feature: "/assets/img/posts/1992MazdaMX5Miata/MiataWashed.jpg"
+
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+>The Mazda Miata is considered the laymans Porsche Cayman... At least this is what I told my 17 year old self while working part time to afford purschasing my first car.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+Growing up I was surrounded by publications of Import Tuner Magazine, reruns of the Fast and The Furious, and the awesome sounds of Eurobeat from the countless hours spent wathching stages of Initial D. Thanks to my brothers the love and passion for cars was something I partook in at an early age. Through out my childhood my fondest memories were had with cars from all shapes and sizes starting with die-cast 1:64 scale (hot wheels size), 1:32, and 1:24 (Jada) to the real deal helping my old man serivce the workhorse of the family a 1986 Nissan Hardbody (D21 Generation). Being able to do your own work; belts, alternators, spark plugs, brakes etc. all consumables and major work was a necessity in the early days. This was a determining factor of being able to make rent and have enough funds for groceries. This grind and struggle only deepend my love and knowledge, and sparked the need for my own project.
 
-## Cupidatat 90's lo-fi authentic try-hard
+Through out my junior and senior year of High School I spent many hours reseaching forums to find the best entry point into the automotive world with asperations set on one day getting it on track. My criterias were striking a balance for handling, power to weight and ease of maintence. At the major cost of practicaility I set my sights on a the NA Mazda Miata.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+Purchased in the fall of 2016 for $4,500 this one owner (Rest in Peace Old Man, whose spirit I believe still lives with this car) 140k miles special edition in beautiful brilliant black 1992 Mazda Miata became mine.
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+## My First Car!
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+{% capture images %}
+{{ site.baseurl }}/assets/img/posts/1992MazdaMX5Miata/MiataFirstImage.jpg
+{{ site.baseurl }}/assets/img/posts/1992MazdaMX5Miata/MiataInterior.jpg
+{{ site.baseurl }}/assets/img/posts/1992MazdaMX5Miata/MiataTanCoverZoomed.jpg
+{{ site.baseurl }}/assets/img/posts/1992MazdaMX5Miata/MiataSofttopTorn.jpg
+{{ site.baseurl }}/assets/img/posts/1992MazdaMX5Miata/MiataWashed.jpg
+{% endcapture %}
+{% include gallery images=images caption="Images of the Miata after its first car wash. UV damaged soft top was removed, running hardtop only because...race car. First modification was installing the GV style front lip." cols=2 %}
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+## Special Edition Specs
 
-## Forage occaecat cardigan qui
+* Engine: 1.6-liter **[DOHC](https://www.civicmotors.com/what-does-dohc-mean/)** 16-valve **[inline-four](https://en.wikipedia.org/wiki/Straight-four_engine)**
+* Horsepower: 116 hp @ 6,500 rpm
+* Torque: 100 lb-ft
+* Transmission: 5-speed manual
+* Drivetrain: Rear-wheel drive (RWD) with a limited-slip differential (LSD)
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
+"Black Miata" was the special model designation which included Black exterior, tan leather interior, tan boot, tan top and the following: 
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+**Equipment:** power windows, includes all A package options (power steering, leather-wrapped steering wheel, alloy wheels, AM-FM/cassette stereo). **Optional C Package (Black Miata only):** Nardi wood shift knob and hand brake handle, stainless sill plates, BBS 14" alloy wheels, includes all other B package options (cruise control, headrest speakers, automatic antenna) **Options Included:** hardtop, ABS, air conditioning, compact disc player, limited slip differential
 
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+In 1992: Base MSRP: $17,050 and $1,400 for C package, plus $350 freight, plus options

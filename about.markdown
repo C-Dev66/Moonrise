@@ -6,7 +6,7 @@ date: 2025-06-26
 comments: true
 ---
 
-## <center>Hello, I'm Carlos on the web I go by CDev66 👋</center>
+## <center>Hello, my name is Carlos. On the web I go by CDev66 👋</center>
 
 ---
 
